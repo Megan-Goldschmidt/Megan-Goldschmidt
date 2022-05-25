@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Megan-Goldschmidt
-- 👀 I’m interested in Front-End Developement
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Html, Css, Javascript, Sass, Bootstrap, and UX/UI Design.
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me ... you can't
